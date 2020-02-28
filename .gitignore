@@ -1,7 +1,7 @@
 githubcommit/
 transfer_learning/logs/
-transfer_learning/.DS_Store
-transfer_learning/.DS_Store
+.DS_Store
+#transfer_learning/.DS_Store
 transfer_learning/.ipynb_checkpoints/train-checkpoint.ipynb
 transfer_learning/models/mobilenetv2_.h5
 
